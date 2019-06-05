@@ -4,7 +4,7 @@
 #
 Name     : libnumbertext
 Version  : 1.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/Numbertext/libnumbertext/releases/download/1.0/libnumbertext-1.0.3.tar.xz
 Source0  : https://github.com/Numbertext/libnumbertext/releases/download/1.0/libnumbertext-1.0.3.tar.xz
 Summary  : Library implementing Soros based Number to Number Name conversion
